@@ -1,0 +1,1 @@
+ce plugin vous permetra de designer votre footer 
